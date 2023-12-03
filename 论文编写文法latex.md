@@ -145,13 +145,14 @@ $$
 
 ### 10. 其他特殊符号
 
-| 输入          | 显示        | 输入           | 显示         |
-| ------------- | ----------- | -------------- | ------------ |
-| \$\forall\$   | $\forall$   | \$\bot\$       | $\bot$       |
-| \$\emptyset\$ | $\emptyset$ | \$\exists\$    | $\exists$    |
-| \$\angle\$    | $\angle$    | \$30^\circ\$   | $30^\circ$   |
-| \$\because\$  | $\because$  | \$\therefore\$ | $\therefore$ |
-| \$not>\$      | $not>$      | \$not=\$       | $not=$       |
+| 输入              | 显示        | 输入            | 显示           |
+| ----------------- | ----------- | --------------- | -------------- |
+| \$\forall\$       | $\forall$   | \$\bot\$        | $\bot$         |
+| \$\emptyset\$     | $\emptyset$ | \$\exists\$     | $\exists$      |
+| \$\angle\$        | $\angle$    | \$30^\circ\$    | $30^\circ$     |
+| \$\because\$      | $\because$  | \$\therefore\$  | $\therefore$   |
+| \$not>\$          | $not>$      | \$not=\$        | $not=$         |
+| 1\$\quad\$1  空格 | $1\quad1$   | 1\$\kern xpt\$1 | 1$\kern 50pt$1 |
 
 ### 11. 阵列
 
